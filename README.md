@@ -1,16 +1,21 @@
-## Hi there 👋
+# Zagrebin Egor — ML Engineer
 
-<!--
-**theskiguyg/theskiguyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Bachelor's in System and Software Engineering | NUST MISIS, Moscow
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ML engineer with a software engineering foundation. Studying System and Software Engineering at NUST MISIS. 
+## 🛠️ Tech Stack
+
+- **ML**: `scikit-learn`, `XGBoost`, `pandas`, `numpy`, `Pytorch soon`
+- **Languages**: `Python`, `C#`
+- **Tools**: Git, Jupyter, VS Code, MlFlow
+
+## 🌍 Languages
+
+- **Russian** — Native
+- **English** — B2 (Upper Intermediate)
+
+
+
+
